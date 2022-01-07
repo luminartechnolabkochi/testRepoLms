@@ -1,4 +1,4 @@
-function login(email,password){
+function login(socialAuth){
 
 
 authenticate user
